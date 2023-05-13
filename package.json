@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "bootstrap": "^5.2.3",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "jquery": "^3.6.4",
+    "pg": "^8.10.0",
+    "sass": "^1.61.0"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "name": "twitter",
+  "version": "1.0.0",
+  "main": "connection.js",
+  "devDependencies": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
