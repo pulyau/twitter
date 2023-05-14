@@ -14,7 +14,6 @@
   "name": "twitter",
   "version": "1.0.0",
   "main": "connection.js",
-  "devDependencies": {},
   "keywords": [],
   "author": "",
   "license": "ISC",
